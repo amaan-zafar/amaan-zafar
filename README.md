@@ -1,6 +1,6 @@
 - 👋 Hi, this is Amaan Zafar. I'm a sophomore at BITS Pilani.
 - 👀 I’m interested in coding, finance and football.
-- 🌱 I’m currently learning flutter and Ui designing.
+- 🌱 I’ve experience in Flutter and Android Developement. Learning Pyhton, Web Development and Machine Learning
 
 <!---
 amaan-zafar/amaan-zafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
