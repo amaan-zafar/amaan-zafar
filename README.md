@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Amaan.</h1>
 <h3 align="center">A passionate Flutter/Android developer from BITS Pilani</h3>
 
-- 🔭 I’m currently working on **an Online Education Management System**
+- 🔭 I’m currently working on **a Communication Platform like Slack built in flutter**
 
-- 🌱 I’m currently learning **Backend and Augmented Reality**
+- 🌱 I’m currently learning **DevOps and Augmented Reality**
 
 - 💬 Ask me about **flutter, android, coding in general**
 
