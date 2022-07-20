@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **amaanzafar.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eaoNql86ricjFSpJm7xhcRGCbtWSU5An/view?usp=sharing](https://drive.google.com/file/d/1eaoNql86ricjFSpJm7xhcRGCbtWSU5An/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1j6CSC5yf_tJsHTrSkBETDQUzNWzam9cw/view?usp=sharing)
 
-- ⚡ Fun fact **I've an acquired sense of humor**
+- ⚡ Fun fact **I don't drink coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
