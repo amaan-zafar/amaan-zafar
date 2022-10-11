@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Communication Platform like Slack built in flutter**
 
-- 🌱 I’m currently learning **DevOps and Augmented Reality**
+- 🌱 I’m currently learning **Augmented Reality**
 
 - 💬 Ask me about **flutter, android, coding in general**
 
